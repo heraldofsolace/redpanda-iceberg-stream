@@ -1,0 +1,17 @@
+{
+  "name": "redpanda-iceberg-connect",
+  "version": "1.0.0",
+  "main": "stream.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "kafkajs": "^2.2.4",
+    "@faker-js/faker": "^8.0.1"
+  }
+}
